@@ -24,7 +24,8 @@ int Reverse_Cyclic_Shift(int a_res)
 }
 
 
-int Reverse_XOR(int a_pre_gamma, int gamma) {
+int Reverse_XOR(int a_pre_gamma, int gamma) 
+{
 			return (a_pre_gamma ^ gamma);
 }
 
