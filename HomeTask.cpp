@@ -1,4 +1,4 @@
-		Листинг номер 1 "Исходный код программы"
+		
 
 #include "stdafx.h"
 #include <iostream>
